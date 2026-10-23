@@ -31,7 +31,7 @@ The application assists users with:
 
 - Android Emulator configuration
 - Git integration setup
-- Time constraints
+
 
 ## Future Improvements
 
